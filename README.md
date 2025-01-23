@@ -1,1 +1,1 @@
-# landing-page
+The landing project, where I recreated the image of the desired outcome to html and implemented it using CSS flex box and box model properties.
